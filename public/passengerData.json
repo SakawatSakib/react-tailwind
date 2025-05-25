@@ -1,0 +1,33 @@
+[
+  {
+    "passengerId": "pass_001",
+    "name": "Emily Carter",
+    "visitInfo": {
+      "sydney": 8,
+      "france": 20,
+      "italy": 6
+    }
+  },
+  
+  {
+    "passengerId": "pass_002",
+    "name": "Raj Mehta",
+    "visitInfo": {
+      "sydney": 8,
+      "france": 35,
+      "italy": 6
+    }
+  },
+  
+  
+  {
+    "passengerId": "pass_003",
+    "name": "Sophia Martinez",
+    "visitInfo": {
+    "sydney": 8,
+      "france": 18,
+      "italy": 6
+    }
+  }
+  
+]

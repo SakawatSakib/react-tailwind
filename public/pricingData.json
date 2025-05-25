@@ -1,0 +1,51 @@
+[
+  {
+    "id": "pkg_basic_001",
+    "name": "Basic",
+    "price": "$299/month",
+    "numericPrice": 299,
+    "currency": "USD",
+    "description": "Perfect for budget travelers looking for a quick getaway.",
+    "features": [
+      "3 Days / 2 Nights",
+      "Economy Hotel Accommodation",
+      "Airport Pickup & Drop",
+      "Group City Tour"
+    ]
+  },
+  {
+    "id": "pkg_standard_002",
+    "name": "Standard",
+    "price": "$599/month",
+    "popular": true,
+    "numericPrice": 599,
+    "currency": "USD",
+    "description": "A well-rounded package with extra comfort and services.",
+    "features": [
+      "5 Days / 4 Nights",
+      "3-Star Hotel Accommodation",
+      "Daily Breakfast Included",
+      "Airport Transfers",
+      "Guided City & Local Tours",
+      "Travel Insurance"
+    ]
+  },
+  {
+    "id": "pkg_premium_003",
+    "name": "Premium",
+    "price": "$999/month",
+    "numericPrice": 999,
+    "currency": "USD",
+    "description": "Luxury experience with top-tier services and accommodations.",
+    "features": [
+      "7 Days / 6 Nights",
+      "5-Star Resort Accommodation",
+      "All Meals Included",
+      "Private Airport Transfers",
+      "Personal Tour Guide",
+      "Exclusive Experiences",
+      "Travel Insurance",
+      "24/7 Support"
+    ]
+  }
+]
